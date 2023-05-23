@@ -3,10 +3,6 @@
 AIBEDO is a hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns. 
 
 
-## Documentation
-
-For a detailed documentation of AIBEDO, on the model architecture, dashboard, datasets and scenarios, please visit https://aibedo.readthedocs.io/
-
 ## Getting started
 
 ### Environment
@@ -50,14 +46,7 @@ Climate intervention techniques—like marine cloud brightening—that need to b
 - The interactive nature of AIBEDO with parameter controls provides a unique tool for policymakers and modelers alike to perform ‘what-if’ investigations, run climate related scenarios, or identify consequences of planned, ill-planned, or rogue MCB experiments.
 
 
-## Funding
 
-The development of AIBEDO is funded under the DARPA AI-assisted Climate Tipping-point Modeling (ACTM) program under award DARPA-PA-21-04-02.
-
-## Participating Institutions
-
-- Palo Alto Research Center, Inc. (PARC)
-- University of Victoria
 
 
 
